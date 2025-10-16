@@ -6,9 +6,9 @@ This project is built using PyTorch implementation of Mask R-CNN and Python 3.11
 
 ## Usage:
 
-+ Clone the GitHub repository and run the following command to initialize it
++ Clone this GitHub repository 
 ```
-get init
+https://github.com/AnastasiaShvydkaiia/Detection-and-Segmentation-with-Mask-R-CNN.git
 ```
 + Create a virtual environment and install requirements (packages) using the following command
  ```
@@ -31,3 +31,4 @@ get init
 | <a name="mrcnn_annotations.json"></a> [mrcnn\_annotations.json](#mrcnn_annotations.json) | JSON file with the model predictions  |
 | <a name="output_video.mp4"></a> [output\_video.mp4](#output_video.mp4) | output video with the model predictions  |
 <!-- END_Specification: -->
+
