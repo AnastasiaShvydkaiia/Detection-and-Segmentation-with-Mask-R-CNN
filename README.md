@@ -4,6 +4,8 @@
 
 This project is built using PyTorch implementation of Mask R-CNN and Python 3.11.9
 
+![result](img/result.png)
+
 ## Usage:
 
 + Clone this GitHub repository 
@@ -31,4 +33,5 @@ https://github.com/AnastasiaShvydkaiia/Detection-and-Segmentation-with-Mask-R-CN
 | <a name="mrcnn_annotations.json"></a> [mrcnn\_annotations.json](#mrcnn_annotations.json) | JSON file with the model predictions  |
 | <a name="output_video.mp4"></a> [output\_video.mp4](#output_video.mp4) | output video with the model predictions  |
 <!-- END_Specification: -->
+
 
